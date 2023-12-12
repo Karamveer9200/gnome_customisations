@@ -13,6 +13,7 @@ all gnome extensions:
 > Coverflow Alt-Tab
 > Rounded Window Corners
 > Tiling Assistant
+> GSConnect (install openssl, fedora)
 > Vitals
 > Another Window session manager (to save/restore session after a shutdown)
 > Mpris Label (music indiacator)
