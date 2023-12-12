@@ -1,0 +1,23 @@
+all gnome extensions:
+
+> appindicator and KStatusNOtifierItem Support
+> ArcMenu          (import all settings)
+> Autohide Battery
+> Disable unredirect fullscreen windows (important!)
+> Blur my shell
+> Dash to panel    (import all settings)
+> Desktop Icons NG(DING)
+> just perfection
+> Rounded Corners  (22px)
+> Desktop Clock
+> Coverflow Alt-Tab
+> Rounded Window Corners
+> Tiling Assistant
+> Vitals
+> Another Window session manager (to save/restore session after a shutdown)
+> Mpris Label (music indiacator)
+> Search Light (shortcut ctrl+super+space)
+> Clipboard History
+> NO overview at start-up
+> [QSTweak] Quick Setting Tweaker
+> Systemd Manager

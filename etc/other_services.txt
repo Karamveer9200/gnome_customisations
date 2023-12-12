@@ -1,0 +1,9 @@
+
+other settings 
+
+auto cpu freq
+fail2ban
+zsh 
+chsh
+omyzsh (with power10k)
+

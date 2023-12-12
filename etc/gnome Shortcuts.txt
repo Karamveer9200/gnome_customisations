@@ -1,0 +1,3 @@
+> The first 9 items in your dock are hotkeyed to Super + 1~9. So if Firefox is the first thing in your dock, Super + 1 to open.
+> "dconf reset -f / " to reset all the configurations and customations to defaults.
+> Hold Ctrl to open multiple instances of the same app or various apps without closing the overview.
